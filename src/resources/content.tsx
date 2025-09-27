@@ -60,7 +60,7 @@ const home: Home = {
   },
   subline: (
     <>
-      I'm Selene, a design engineer at{" "}
+      I'm Aezan, a Software Developer at{" "}
       <Logo
         dark
         icon="/trademarks/wordmark-dark.svg"
@@ -93,8 +93,8 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
+        Aezan is a Kolkata-based Softwear Developer with a passion for transforming complex challenges
+        into simple, elegant design solutions. His work spans digital interfaces, interactive
         experiences, and the convergence of design and technology.
       </>
     ),
@@ -106,7 +106,7 @@ const about: About = {
       {
         company: "FLY",
         timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        role: "Senior Software Developer",
         achievements: [
           <>
             Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
